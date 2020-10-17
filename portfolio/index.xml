@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Portfolio | Adrien Chantrel</title>
+    <link>https://achtrl.github.io/portfolio/</link>
+    <description>Recent content in Portfolios on Portfolio | Adrien Chantrel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Oct 2020 12:49:27 +0600</lastBuildDate><atom:link href="https://achtrl.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Masked Faces Recognition AI</title>
+      <link>https://achtrl.github.io/portfolio/masked_face/</link>
+      <pubDate>Mon, 12 Oct 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://achtrl.github.io/portfolio/masked_face/</guid>
+      <description>This project will help me discover Deep Learning and Computer Vision.
+There is not much content yet, because we just started the project. But I will update this project page as things progress, so stay in touch !</description>
+    </item>
+    
+    <item>
+      <title>Dots and Boxes AI</title>
+      <link>https://achtrl.github.io/portfolio/dots_and_boxes/</link>
+      <pubDate>Thu, 01 Oct 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://achtrl.github.io/portfolio/dots_and_boxes/</guid>
+      <description>To evaluate the different AIs developed by each student of the class, a tournament is organized in which all the AIs will face each others.
+There is not much content yet, because I just started the project. But I will update this project page as things progress, so stay in touch !</description>
+    </item>
+    
+    <item>
+      <title>Hospital Web Rehabilitation Platform</title>
+      <link>https://achtrl.github.io/portfolio/hospital_web_app/</link>
+      <pubDate>Wed, 01 Jul 2020 18:19:35 +0600</pubDate>
+      
+      <guid>https://achtrl.github.io/portfolio/hospital_web_app/</guid>
+      <description>We used a MERN (MongoDB, Express JS, React JS and Node JS) Stack and I contributed to both the frontend and the backend.
+Patients coming from surgery can connect to this platform to realize several physical and psychosocial exercises per day in order to maintain a physical condition and keep their brain active.
+The exercises can take several formats :
+ PDF documents video files audio files web videos link to applications  Each morning during the first connection and each night before sleeping, patients have to fulfill a wellbeing form.</description>
+    </item>
+    
+    <item>
+      <title>My Day</title>
+      <link>https://achtrl.github.io/portfolio/my_day/</link>
+      <pubDate>Mon, 01 Jun 2020 18:07:16 +0600</pubDate>
+      
+      <guid>https://achtrl.github.io/portfolio/my_day/</guid>
+      <description>We divided the project in 3 parts :
+ Frontend : creation of the web interface Backend : creation of the server Data : call to APIs and processing of the collecting data  We used a MERN (MongoDB, Express JS, React JS and Node JS) Stack. As I was already familiar with React, I decided to be versatile and I contributed to both the backend and the data parts and I helped in the frontend when needed.</description>
+    </item>
+    
+  </channel>
+</rss>
